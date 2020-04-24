@@ -1,1 +1,1 @@
-# linter
+# Linter Configuration Collection
